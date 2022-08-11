@@ -1,4 +1,4 @@
-module github.com/fearful-symmetry/garlic
+module github.com/Zzorz/garlic
 
 require (
 	github.com/google/go-cmp v0.2.0 // indirect
